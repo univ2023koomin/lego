@@ -38,7 +38,7 @@ h1 {
     text-align: left; /* Align the text to the left */
     font-size: 28px; /* Set the font size to 20 pixels */
     font-weight: bold; /* Make the text bold */
-    background: linear-gradient(to down,  #e7a137, #f8ca79); /* Add a gradient background to the description */
+    background: linear-gradient(to bottom,  #e7a137, #f8ca79); /* Add a gradient background to the description */
     padding: 20px; /* Add padding for better spacing */
     color: #ffffff; /* Set the text color of the description to white */
 }
